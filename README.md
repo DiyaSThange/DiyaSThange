@@ -3,7 +3,7 @@
 - I’m interested in **Cybersecurity & Ethical Hacking**, **Artificial Intelligence**, **Web Development**, **UI/UX Design**, and **Cryptocurrency trading**.  
 - Currently, I’m advancing my skills in **AI**, **ethical hacking**, **cybersecurity**, and **cryptocurrency trading**, while exploring various **AI models' workings and capabilities**.  
 - I’m looking to collaborate on **open-source projects**, **AI initiatives**, **cybersecurity solutions**, and **innovative web development**.  
-- How to reach me: Connect with me on [**LinkedIn**](https://www.linkedin.com/in/diya-s-thange-408b7b267/) or via [**Email**](mailto:diyasthange@gmail.com).  
+- How to reach me: Connect with me on [**LinkedIn**](https://www.linkedin.com/in/diyasthange/) or via [**Email**](mailto:diyasthange@gmail.com).  
 - Pronouns: **She/Her**  
 
 ## Professional Contributions
