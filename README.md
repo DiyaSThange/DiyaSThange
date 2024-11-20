@@ -42,8 +42,6 @@ I am an active member of the **DevOps Team - MCE**, a **college club** establish
    - Designed a **Figma-based web interface** allowing users to:  
      - Select items, adjust quantities, and dynamically calculate the total amount before checkout.  
 
-   **GitHub Repository**: [**Dynamic Order Management System**](https://github.com/DiyaSThange)
-
 ---
 
 ## **Skills and Tools**
