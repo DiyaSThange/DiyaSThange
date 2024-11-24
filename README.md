@@ -1,90 +1,88 @@
-# **Hi, I’m Diya S Thange**
+# Hi, I’m Diya S Thange 👋
 
-- **Interests**:  
-  I’m passionate about **Cybersecurity & Ethical Hacking**, **Artificial Intelligence**, **Web Development**, **UI/UX Design**, and **Cryptocurrency Trading**.  
-
-- **Current Focus**:  
-  I am advancing my skills in **AI**, **ethical hacking**, **cybersecurity**, and **cryptocurrency trading**, while exploring various **AI models' workings and capabilities**.
-
-- **Collaborative Interests**:  
-  I’m looking to collaborate on **open-source projects**, **AI initiatives**, **cybersecurity solutions**, and **innovative web development**.
-
-- **Contact Me**:  
-  - [**LinkedIn**](https://www.linkedin.com/in/diyasthange/)  
-  - [**Email**](mailto:diyasthange@gmail.com)
+## 🌟 About Me
+I’m a 20-year-old Computer Science and Engineering student/. With a blend of technical expertise and creative flair, I am passionate about **Cybersecurity & Ethical Hacking**, **Artificial Intelligence**, **Web Development**, **UI/UX Design**, and **Cryptocurrency Trading**. I strive to create innovative solutions and explore the workings of various AI models and technologies.
 
 ---
 
-## **Professional Contributions**
-
-I am an active member of the **DevOps Team - MCE**, a **college club** established on **November 17, 2016**. This team is dedicated to **technical education**, conducting events like **hackathons**, **gaming competitions**, and **technical sessions for self-development**, focusing on creating impactful projects with the motto **"Build from Basics."**
-
-### **Roles in DevOps Team**:
-- **Digital Team**:  
-  - Designed promotional content using **Canva**.  
-  - Edited videos using **CapCut** for events.  
-
-- **Editorial Team**:  
-  - Contributed to **formal letter drafting**.  
-
-- **Other Contributions**:  
-  - Organized events focusing on **problem-solving** (Hackathons) and **gaming** (Gameathons).  
-  - Mentored juniors in creating **digital content**, **video editing**, **letter drafting**, and using **technical tools**.
+## 💼 Current Focus
+I am advancing my skills in:
+- **Ethical Hacking** & **Cybersecurity**
+- **Artificial Intelligence**
+- **Cryptocurrency Trading**
+- **Web Development**
 
 ---
 
-## **Projects**
-
-1. **Food Monitoring System (2023)**  
-   - Developed a system to enhance food safety, minimize waste, and improve efficiency in the food industry.
-
-2. **Dynamic Order Management System (2024)**  
-   - Designed a **Figma-based web interface** allowing users to:  
-     - Select items, adjust quantities, and dynamically calculate the total amount before checkout.  
+## 🤝 Collaborative Interests
+I’m open to collaborating on:
+- Open-source projects
+- AI research and innovations
+- Cybersecurity solutions
+- Creative and innovative web development projects
 
 ---
 
-## **Skills and Tools**
+## 🛠️ Skills and Tools
+### **Programming Languages**
+- Proficient: C, C++, HTML
+- Familiar: Python, CSS, JavaScript
 
-### **Programming Languages**  
-- **Proficient**: C, C++, HTML  
-- **Familiar**: Python, CSS  
+### **Web Development**
+- Frontend: HTML, CSS, JavaScript
+- DBMS: MySQL
 
-### **Web Development**  
-- **Frontend Technologies**: HTML, CSS, JavaScript  
-- **Database Management Systems (DBMS)**: MySQL  
-
-### **Software Proficiency**  
-- **MS Office Suite**: Excel, Word, PowerPoint, Outlook  
-- **Google Workspace**: Docs, Sheets, Slides, Drive, Gmail  
-- **WPS Office Suite**
-
-### **Design & Development Tools**  
-- **UI/UX Design**: Figma  
-- **Graphic Design**: Canva  
-- **Video Editing**: CapCut  
-- **CAED (Computer-Aided Engineering Design)**: SolidWorks  
-- **Integrated Development Environment (IDE)**: Visual Studio Code  
-
-### **Others**  
-- **Version Control**: Git, GitHub  
-- **Educational Tools**: Scratch  
+### **Tools and Software**
+- **Design Tools**: Figma, Canva
+- **Video Editing**: CapCut
+- **Development Tools**: VS Code, Git, GitHub
+- **CAED**: SolidWorks
+- **Productivity Suites**: MS Office, Google Workspace, WPS Office
 
 ---
 
-## **Certifications**
+## 📂 Projects
+### 1. [Food Monitoring System](https://github.com/DiyaSThange)
+**Year**: 2023  
+**Status**: Completed  
+**Details**: This system incorporates technology to ensure food safety, reduce waste, and enhance overall efficiency in the food industry.  
 
+### 2. Dynamic Order Management System  
+**Year**: 2024  
+**Status**: Completed  
+**Details**: A web-based application designed for food ordering with features like restaurant search, menu browsing, cart management, and dynamic total calculation. Conceptualized and designed using Figma for a seamless user experience.
+
+### 3. Netflix Clone  
+**Year**: 2024  
+**Status**: Completed  
+**Details**: A minimalistic replica of Netflix’s user interface with a landing page, login page, home page, and movie detail page. Built using HTML, CSS, and JavaScript for foundational web development practice.
+
+### 4. NetScanner  
+**Year**: 2024  
+**Status**: Ongoing  
+**Details**: A Python tool to scan open ports on a target IP address, identifying potential vulnerabilities associated with commonly open ports.
+
+### 5. Basic Expense Manager  
+**Year**: 2024  
+**Status**: Ongoing  
+**Details**: A lightweight command-line application for managing daily expenses. Built using Python and SQLite for efficient personal financial tracking.
+
+---
+
+## 🎓 Certifications
 - **Soft Skill Development** - NPTEL (2024)  
-- **Cybersecurity and Ethical Hacking Workshop** - ME-RIISE Foundation (2022)
+- **Software Testing** - NPTEL (2024)  
+- **Cybersecurity and Ethical Hacking Workshop** - (2022)  
+- **C for Beginners** - (2022)  
+- **Microsoft Office Suite** - (2022)  
 
 ---
 
-## **About Me**
-
-I am a **Computer Science and Engineering** student at **Malnad College of Engineering**, Hassan, Karnataka, graduating in **2026**. My expertise includes a unique blend of **technical** and **creative skills**, allowing me to excel in fields such as **cybersecurity**, **AI**, and **digital design**.
-
-I continuously enhance my **reasoning** and **analytical skills** through the **DTS (Delivery Testing and Support) track**, focusing on **problem-solving** and **decision-making**.
+## 🌍 Contact Me
+- **GitHub**: [github.com/DiyaSThange](https://github.com/DiyaSThange)  
+- **LinkedIn**: [linkedin.com/in/diyasthange](https://www.linkedin.com/in/diyasthange/)  
+- **Email**: [diyasthange@gmail.com](mailto:diyasthange@gmail.com)
 
 ---
 
-Feel free to reach out if you’re interested in **connecting** or **collaborating**!
+Let’s collaborate and make a difference together! 🚀
