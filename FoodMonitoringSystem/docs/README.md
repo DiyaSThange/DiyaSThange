@@ -34,7 +34,8 @@ FoodMonitoringSystem/
 ├── docs/
 │   └── README.md             # Documentation (this file)
 └── src/
-    └── main.py               # Main Python script for the system 
+    └── main.py               # Main Python script for the system
+```
 
 ---
 
