@@ -18,7 +18,7 @@ The system generates alerts to notify users of food items requiring immediate at
 
 ## How It Works
 1. **Input Food Data**:
-   - Food data is provided through a CSV file (data/sample_data.csv) or directly in the script.
+   - Food data is provided through a CSV file `data/sample_data.csv` or directly in the script.
 2. **Safety Check**:
    - Evaluates each item's temperature and expiration days against predefined thresholds.
 3. **Alert Generation**:
@@ -39,32 +39,35 @@ FoodMonitoringSystem/
 
 ---
 
-##Setup 
+## Setup 
 
-###Prerequisites 
+### Prerequisites 
 - Python 3.6 or higher installed on your system. 
 - A text editor or IDE for reviewing and editing code. 
 
-##Installation 
+## Installation 
 1. Clone the repository:
 ```bash 
-git clone https://github.com/YourGitHubUsername/FoodMonitoringSystem.git 
+git clone https://github.com/YourGitHubUsername/FoodMonitoringSystem.git
+```
 2. Navigate to the project directory: 
 ```bash 
-cd FoodMonitoringSystem 
+cd FoodMonitoringSystem
+```
 
 ---
 
-##Usage 
+## Usage 
 
-###Using the Provided Sample Data 
-1. Open the (src/main.py) script to review the code. 
-2. Use the (data/sample_data.csv) file as the input dataset. 
+### Using the Provided Sample Data 
+1. Open the `src/main.py` script to review the code. 
+2. Use the `data/sample_data.csv` file as the input dataset. 
 
-###Running the Script 
+### Running the Script 
 Run the Python script from the terminal:
 ```bash 
-python src/main.py 
+python src/main.py
+```
 
 ### Expected Output 
 The script will display alerts for any food items that require attention. For example:
@@ -82,16 +85,17 @@ System Alerts:
 ALERT: Milk exceeds safe temperature! (Temp: 8°C)
 ALERT: Meat is near expiration! (Days left: 1)
 ALERT: Vegetables exceeds safe temperature! (Temp: 10°C)
+```
 
 --- 
 
 ## Customization 
 
 ### Thresholds 
--Modify (ALERT_THRESHOLD) and (EXPIRATION_LIMIT) in (main.py) to customize temperature and expiration limits. 
+- Modify `ALERT_THRESHOLD` and `EXPIRATION_LIMIT` in `main.py` to customize temperature and expiration limits. 
 
-###Input Data 
-- Replace (sample_data.csv) with your own CSV file for real-world data. 
+### Input Data 
+- Replace `sample_data.csv` with your own CSV file for real-world data. 
 
 ---
 
